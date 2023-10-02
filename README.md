@@ -1,6 +1,8 @@
 # NordMicroModular
 A set of patches optimized for the Micro Modular
 
+## Introduction
+
 This project is intended to include a set of Nord Modular patches optimized for the Micro Modular. The goal is to help make the Micro Modular into a usable performance synthesizer, despite its limited DSP power and small control surface. The patches will conform to a set of coding standards designed to help them be musically useful in this limited environment. The standards include:
 
  - Strict attention to DSP utilization, to acheive a determined level of polyphony. For instance, many patches will aim for 4- or 5- voice polyphony, limiting them to 20% or 25% CPU per voice.
@@ -12,6 +14,19 @@ This project is intended to include a set of Nord Modular patches optimized for 
  - One output channel. True stereo patches are allowed, and it is okay to patch output 1 to output 2 for the benefit of headphones. But in tight CPU situations, the .1% per voice saved by using a mono output can be significant. Users should expect patches to have just a single output.
  - Automated tooling. Nord Modular "G1" patch files are stored in a simple plain text format. This project aims to develop tools that can be used to maniplulate patch files in order apply these standards.
 
+## General Midi 2 CCs
+
+LFO-related:
+CC 76 Vibrato Rate, CC 77 Vibrato Depth, CC 78 Vibrato Delay
+
+Envelope-related:
+CC 73 Attack, CC 75 Decay, CC 72 Release
+
+Filter-related:
+CC 74 Cutoff, CC 71 Resonance
+
+Others:
+CC 7 Channel Volume
 
 
 
