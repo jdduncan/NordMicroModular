@@ -11,7 +11,7 @@ class PatchBankBuilder {
   static final String cwd = System.getProperty("user.dir");
   static final Path target = Path.of(cwd, "PatchBank");
   static final Path srcDir = Path.of(cwd, "patches");
-  static final Path blankPch = srcDir.resolve("basic.pch");
+  static final Path blankPch = srcDir.resolve("NULL.pch");
   static final Path pchListFile = target.resolve("Bank1.pchList");
 
   static int printFillerLine(PrintWriter out) {
@@ -76,7 +76,7 @@ class PatchBankBuilder {
       patchFiles = new TreeSet<Path>();
       DirectoryStream<Path> stream = Files.newDirectoryStream(path, "*.pch");
       for(Path entry : stream) patchFiles.add(entry);
-      end = start + size();
+      end = start + size() - 1;
     }
 
     public int size() { return patchFiles.size(); }
@@ -96,14 +96,13 @@ class PatchBankBuilder {
     public int printPatchFiles(PrintWriter out, int line) {
       while(line < start)
         line += printFillerLine(out);
-      assert(line == start);
       for(Path p : patchFiles) {
         String name = p.getFileName().toString();
         int len = name.length() - 4;
         out.printf("%s\r\n", name);
         System.out.printf("%02d \t %s\n", line++, name.substring(0, len));
       }
-      return end;
+      return line;
     }
 
     public int compareTo(Section other) {
