@@ -1,0 +1,138 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 32 4000 2 0 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 0 0 
+2 8 0 10 
+3 10 0 18 
+4 11 0 22 
+5 19 0 26 
+6 80 0 4 
+7 28 0 8 
+8 28 0 16 
+9 51 1 0 
+10 20 1 12 
+11 20 1 18 
+12 94 1 24 
+13 4 1 28 
+15 66 1 8 
+16 28 1 10 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 79 98 64 64 64 64 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+1 6 0 1 2 1 0 
+1 7 0 1 2 3 0 
+3 2 1 1 3 0 0 
+3 4 0 0 3 0 0 
+1 8 0 1 3 1 0 
+0 2 0 1 5 0 0 
+0 3 0 1 5 1 0 
+0 4 0 1 5 2 0 
+1 15 0 1 9 0 0 
+0 5 0 1 9 2 0 
+2 1 1 1 10 1 0 
+2 11 1 0 10 1 0 
+0 9 0 1 11 0 0 
+0 11 1 1 12 0 0 
+0 12 0 1 13 0 0 
+0 12 1 1 13 1 0 
+1 16 0 1 15 0 0 
+1 10 0 1 15 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 8 9 68 64 64 3 0 0 0 56 0 
+3 10 5 64 54 71 40 0 
+4 11 4 52 74 0 0 
+5 19 3 127 127 127 
+6 80 5 98 64 1 1 0 
+7 28 1 50 
+8 28 1 61 
+9 51 10 0 1 80 60 45 0 60 1 0 0 
+10 20 6 0 67 107 7 92 0 
+11 20 6 0 72 111 89 87 0 
+12 94 3 80 75 0 
+13 4 3 80 0 0 
+15 66 5 0 55 0 127 0 
+16 28 1 64 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 3 0 0 
+1 2 4 0 35 1 9 3 1 32 1 9 6 2 25 1 10 1 2 -21 1 10 2 3 -17 1 11 1 2 -15 1 11 2 3 -16 1 13 0 2 47 1 15 1 1 25 
+[/MorphMapDump]
+[KeyboardAssignment]
+0 0 1 2 
+[/KeyboardAssignment]
+[KnobMapDump]
+1 2 0 0 
+1 2 7 1 
+1 3 0 3 
+1 3 3 4 
+1 7 0 2 
+1 8 0 5 
+1 9 0 15 
+1 9 2 12 
+1 9 3 6 
+1 9 6 9 
+1 10 1 7 
+1 10 2 10 
+1 10 3 13 
+1 10 4 16 
+1 11 1 8 
+1 11 2 11 
+1 11 3 14 
+1 11 4 17 
+2 1 1 20 
+[/KnobMapDump]
+[CtrlMapDump]
+2 1 0 1 
+[/CtrlMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+4 1 0 
+6 1 0 
+7 1 0 
+8 1 0 
+9 1 0 
+16 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard
+2 Osc 1
+3 Osc 2
+4 Osc 3
+5 Mixer Osc 1/2/3
+6 LFO Pitch
+7 LFO PWM 1
+8 LFO PWM 2
+9 Filter
+10 Filter-ADSR
+11 Amp-ADSR
+12 StereoChorus
+13 2 outputs
+15 CtrlMix Filter
+16 LFO Filter
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

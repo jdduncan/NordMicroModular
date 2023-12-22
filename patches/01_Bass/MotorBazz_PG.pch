@@ -1,0 +1,108 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 2 1 0 1 1 1 1 0 0 0 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 107 0 4 
+2 20 0 16 
+3 1 0 0 
+4 4 0 30 
+5 43 4 10 
+6 9 0 12 
+7 52 1 4 
+8 19 0 10 
+9 44 4 8 
+10 102 0 22 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+1 7 0 1 1 3 0 
+1 7 0 1 8 1 0 
+0 6 0 1 2 0 0 
+2 3 1 1 2 1 0 
+2 3 1 1 7 0 0 
+0 10 0 1 4 1 0 
+0 4 0 0 4 1 0 
+0 9 0 1 6 0 0 
+1 5 0 1 8 0 0 
+0 8 0 1 9 0 0 
+0 1 0 1 9 1 0 
+0 2 1 1 10 0 0 
+1 3 0 1 10 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 107 10 40 64 53 1 0 0 0 72 1 0 
+2 20 6 0 7 77 127 55 0 
+4 4 3 88 0 0 
+5 43 2 27 1 
+6 9 6 64 64 1 0 80 0 
+7 52 11 127 57 0 127 0 73 92 0 0 3 1 
+8 19 3 66 57 64 
+9 44 1 0 
+10 102 11 64 1 80 56 0 86 3 50 0 0 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 4 0 0 25 1 6 4 0 9 1 8 1 0 33 1 10 3 0 30 
+[/MorphMapDump]
+[KeyboardAssignment]
+1 0 0 0 
+[/KeyboardAssignment]
+[KnobMapDump]
+1 1 0 1 
+1 1 2 0 
+1 1 3 5 
+1 2 1 8 
+1 2 2 11 
+1 2 3 14 
+1 2 4 17 
+1 7 4 7 
+1 7 5 10 
+1 7 6 13 
+1 7 7 16 
+1 8 0 2 
+1 10 2 4 
+1 10 3 3 
+1 10 5 6 
+1 10 6 12 
+1 10 7 9 
+1 10 8 15 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+6 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Color
+2 Envelope
+3 Keyboard
+4 Stereo Out
+5 @Constant1
+6 Razor
+7 Color Envelope
+8 Offset/Env Mix
+9 @GainControl1
+10 Phazor
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

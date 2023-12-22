@@ -1,0 +1,169 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 1 1 0 1 1 1 1 1 1 0 0 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 0 0 
+2 4 2 20 
+3 7 0 2 
+4 20 1 4 
+5 45 1 10 
+6 24 0 26 
+7 19 0 20 
+8 11 0 16 
+9 110 1 32 
+10 10 0 10 
+11 30 2 2 
+12 51 2 4 
+13 30 0 14 
+14 84 1 28 
+15 66 1 26 
+16 66 1 18 
+17 30 1 22 
+18 66 1 20 
+19 30 1 24 
+20 66 1 16 
+22 66 0 22 
+23 30 0 24 
+24 62 2 12 
+25 20 2 28 
+26 94 2 16 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 52 114 3 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 26 0 1 2 0 0 
+0 26 1 1 2 1 0 
+0 5 0 1 4 0 0 
+2 1 1 1 4 1 0 
+2 14 0 0 4 1 0 
+2 25 1 0 14 0 0 
+0 7 0 1 5 0 0 
+1 20 0 1 5 1 0 
+1 22 0 1 5 2 0 
+1 22 0 1 24 1 0 
+0 3 0 1 7 0 0 
+0 10 0 1 7 1 0 
+0 8 0 1 7 2 0 
+3 3 1 1 10 0 0 
+3 8 0 0 10 0 0 
+1 13 0 1 10 1 0 
+1 16 0 1 12 0 0 
+1 16 0 1 20 1 0 
+0 4 1 1 12 2 0 
+1 11 0 1 12 3 0 
+1 9 0 1 14 1 0 
+0 14 1 1 15 0 0 
+1 25 0 1 15 1 0 
+1 6 1 1 16 0 0 
+1 6 1 1 22 1 0 
+1 18 0 1 16 1 0 
+3 6 0 1 17 0 0 
+3 19 0 0 17 0 0 
+3 6 0 1 23 0 0 
+1 19 0 1 18 0 0 
+1 17 0 1 18 1 0 
+1 15 0 1 20 0 0 
+1 23 0 1 22 0 0 
+0 12 0 1 24 0 0 
+0 24 0 1 26 0 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 127 0 0 
+3 7 10 52 64 64 64 2 0 0 34 68 0 
+4 20 6 0 90 96 75 58 0 
+5 45 9 0 3 2 106 37 127 57 12 0 
+6 24 8 51 1 1 0 0 0 64 0 
+7 19 3 127 115 93 
+8 11 4 59 59 36 0 
+9 110 1 77 
+10 10 5 52 68 90 54 0 
+11 30 1 26 
+12 51 10 0 0 14 90 64 0 73 0 5 0 
+13 30 1 59 
+14 84 3 34 108 0 
+15 66 5 0 14 0 127 0 
+16 66 5 0 102 0 127 0 
+17 30 1 82 
+18 66 5 0 85 0 92 0 
+19 30 1 68 
+20 66 5 0 127 0 89 0 
+22 66 5 0 82 0 75 0 
+23 30 1 45 
+24 62 2 16 30 
+25 20 6 0 0 96 127 58 1 
+26 94 3 108 70 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 4 1 0 -90 1 6 0 1 37 1 15 1 0 103 1 24 0 1 31 1 25 1 0 85 
+[/MorphMapDump]
+[KeyboardAssignment]
+1 0 0 0 
+[/KeyboardAssignment]
+[KnobMapDump]
+1 2 0 0 
+1 12 3 1 
+1 12 6 4 
+2 1 1 3 
+[/KnobMapDump]
+[CustomDump]
+1 
+3 1 0 
+8 1 0 
+9 1 0 
+10 1 0 
+11 1 0 
+12 1 0 
+13 1 0 
+17 1 0 
+19 1 0 
+23 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard
+2 Goodbye
+3 OscA1
+4 ADSR-Env1
+5 VocalFilter1
+6 LFOA1
+7 Mixer1
+8 OscSlvC1
+9 RandomGen1
+10 OscSlvB1
+11 LFOSlvE2
+12 FilterE1
+13 LFOSlvE1
+14 AD-Env1
+15 ControlMixer1
+16 ControlMixer1
+17 LFOSlvE2
+18 ControlMixer1
+19 LFOSlvE2
+20 ControlMixer1
+22 ControlMixer1
+23 LFOSlvE2
+24 Overdrive1
+25 ADSR-Env1
+26 StereoChorus1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

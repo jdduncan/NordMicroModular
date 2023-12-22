@@ -1,0 +1,92 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 5 600 3 1 1 0 0 0 0 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 28 0 2 
+2 8 0 8 
+3 19 0 21 
+4 49 0 16 
+5 20 0 25 
+6 19 0 14 
+7 5 0 30 
+8 1 0 23 
+9 26 0 4 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+69 25 23 69 50 29 67 54 27 62 25 15 69 54 23 62 18 16 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 6 0 1 4 1 0 
+1 5 0 1 4 0 0 
+1 1 0 1 2 3 0 
+2 8 1 1 5 1 0 
+0 5 1 1 7 0 0 
+0 2 0 1 6 1 0 
+0 4 2 1 6 2 0 
+0 4 2 1 3 0 0 
+0 3 0 1 5 0 0 
+1 9 0 1 2 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 28 1 69 
+2 8 9 64 64 64 3 0 0 0 24 0 
+3 19 3 127 0 127 
+4 49 4 41 64 59 82 
+5 20 6 0 56 33 80 0 0 
+6 19 3 127 127 19 
+7 5 3 127 0 0 
+9 26 6 101 1 0 0 1 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 2 0 
+1 2 4 2 33 1 2 7 0 39 1 3 1 3 67 1 4 1 3 39 1 5 1 1 -30 1 5 3 1 22 
+[/MorphMapDump]
+[KeyboardAssignment]
+2 1 0 0 
+[/KeyboardAssignment]
+[KnobMapDump]
+1 4 0 0 
+1 4 2 1 
+1 4 3 2 
+2 1 3 20 
+[/KnobMapDump]
+[CtrlMapDump]
+2 1 2 1 
+[/CtrlMapDump]
+[CustomDump]
+0 
+[/CustomDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+4 1 0 
+[/CustomDump]
+[NameDump]
+1 
+1 LFO PWM
+2 OscB
+3 2=Bandpass
+4 Filter
+5 ADSR
+6 Feedback
+7 1 Output
+8 Keyboard
+9 Vibrato
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

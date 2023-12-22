@@ -4,65 +4,52 @@ Version=Nord Modular patch 3.0
 [/Header]
 [ModuleDump]
 1
-2 20 0 13
-4 1 0 11
-3 4 0 23
-1 8 0 5
-5 49 0 18
+1 8 0 5 
+2 20 0 13 
+3 4 0 23 
+4 1 0 11 
+5 49 0 18 
 [/ModuleDump]
 [ModuleDump]
 0
-1 127 0 1
-3 4 0 6
-2 94 0 3
 [/ModuleDump]
 [CurrentNoteDump]
 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 
 [/CurrentNoteDump]
 [CableDump]
 1
-2 2 1 0 4 1 1
-0 5 1 0 2 1 1
-0 3 0 0 5 2 1
-0 2 0 0 1 0 1
-1 5 0 0 2 0 1
+0 2 0 0 1 0 1 
+0 3 0 0 3 1 0 
+0 3 0 0 5 2 1 
+0 5 1 0 2 1 1 
+1 5 0 0 2 0 1 
+2 2 1 0 4 1 1 
 [/CableDump]
 [CableDump]
 0
-0 2 0 0 1 0 1
-0 3 0 0 2 0 1
-0 3 1 0 2 1 1
 [/CableDump]
 [ParameterDump]
 1
-2 20 6 2 13 77 113 16 0 
-3 4 3 115 2 0 
 1 8 9 64 64 64 2 0 0 0 59 0 
+2 20 6 2 13 77 113 16 0 
+3 4 3 127 0 0 
 5 49 4 38 64 34 67 
 [/ParameterDump]
 [ParameterDump]
 0
-1 127 1 0 
-3 4 3 115 0 0 
-2 94 3 64 64 0 
 [/ParameterDump]
-[MorphMapDump]
-0 0 0 0
-[/MorphMapDump]
 [KnobMapDump]
-1 5 0 0
-1 5 2 1
-1 5 3 2
+1 5 0 0 
+1 5 2 1 
+1 5 3 2 
 [/KnobMapDump]
 [CtrlMapDump]
-1 5 2 71
-1 2 4 72
-1 2 1 73
-1 5 0 74
-1 2 2 75
-1 2 3 80
-0 2 1 93
-0 2 0 94
+1 5 2 71 
+1 2 4 72 
+1 2 1 73 
+1 5 0 74 
+1 2 2 75 
+1 2 3 80 
 [/CtrlMapDump]
 [CustomDump]
 1
@@ -74,17 +61,14 @@ Version=Nord Modular patch 3.0
 [/CustomDump]
 [NameDump]
 1
-2 ADSR
-4 Keyboard
-3 2 Output
 1 OscB
+2 ADSR
+3 2 Output
+4 Keyboard
 5 FilterD
 [/NameDump]
 [NameDump]
 0
-1 PolyAreaIn
-3 2 Output
-2 StereoChorus
 [/NameDump]
 [Notes]
 Sawtooth wave, 1 ADSR, and 12dB LPF.
@@ -92,5 +76,4 @@ Sawtooth wave, 1 ADSR, and 12dB LPF.
 Knob 1: Cutoff
 Knob 2: Resonance
 Knob 3: ADSR to filter cutoff
-
 [/Notes]

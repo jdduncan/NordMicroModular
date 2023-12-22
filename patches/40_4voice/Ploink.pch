@@ -1,0 +1,96 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 16 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 95 0 2 
+2 57 0 26 
+5 4 0 32 
+6 51 0 16 
+7 84 0 28 
+8 31 0 14 
+9 44 0 24 
+10 1 0 0 
+11 95 0 6 
+12 18 0 10 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+50 51 64 50 51 64 64 78 64 71 78 64 65 40 64 50 67 64 38 54 64 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 11 0 1 12 1 0 
+0 1 0 1 12 0 0 
+0 12 0 1 9 1 0 
+0 6 0 1 9 0 0 
+0 2 0 1 7 2 0 
+0 9 0 1 7 1 0 
+0 8 0 1 6 2 0 
+1 7 0 1 6 0 0 
+0 5 0 0 5 1 0 
+0 7 1 1 5 1 0 
+1 10 2 1 12 2 0 
+1 10 2 1 2 0 0 
+1 11 2 0 1 2 0 
+1 10 0 1 1 2 0 
+2 7 0 0 11 0 0 
+2 11 0 0 1 0 0 
+2 10 1 1 1 0 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 95 7 76 64 114 0 127 64 0 
+2 57 2 2 0 
+5 4 3 116 0 0 
+6 51 10 1 1 0 60 64 0 127 1 0 0 
+7 84 3 6 93 0 
+8 31 1 64 
+9 44 1 0 
+11 95 7 107 64 80 0 127 64 0 
+12 18 2 25 35 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 1 0 3 
+1 1 2 0 
+1 6 6 7 
+1 7 1 6 
+1 11 0 4 
+1 11 2 1 
+1 12 0 5 
+1 12 1 2 
+[/KnobMapDump]
+[CustomDump]
+0 
+[/CustomDump]
+[CustomDump]
+1 
+1 1 0 
+6 1 0 
+11 1 0 
+[/CustomDump]
+[NameDump]
+1 
+1 PercOsc1
+2 InvLevShift1
+5 2 outputs1
+6 FilterE2
+7 AD-Env1
+8 Noise1
+9 GainControl1
+10 (c) Rob Hordijk
+11 PercOsc2
+12 X-Fade2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
